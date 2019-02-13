@@ -31,6 +31,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<username>${anypoint.username}</username>
 						<password>${anypoint.password}</password>
+						<muleVersion>4.1.3</muleVersion>
 						<applicationName>vishal-${project.artifactId}-${project.version}</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
