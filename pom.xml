@@ -33,7 +33,7 @@
 						<password>${anypoint.password}</password>
 						<muleVersion>4.1.3</muleVersion>
 						<environment>Sandbox</environment>
-						<applicationName>vishal-${project.artifactId}-${project.version}</applicationName>
+						<applicationName>vishal-${project.artifactId}</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 					</cloudHubDeployment>
